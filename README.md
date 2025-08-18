@@ -27,7 +27,7 @@ O modelo não se restringe apenas à previsão de pontos, mas também inclui est
 
 ---
 
-# NBA Performance Prediction (English)
+# NBA Performance Prediction 
 
 This project applies Data Science and Machine Learning to analyze and predict NBA players' performance, using Stephen Curry as the initial case study. 
 The model goes beyond scoring prediction, also including key stats such as assists, rebounds, steals, turnovers, and blocks.
