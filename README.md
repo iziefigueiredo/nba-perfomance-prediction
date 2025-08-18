@@ -57,4 +57,4 @@ The model goes beyond scoring prediction, also including key stats such as assis
 ---
 
 
-Project developed by **Isadora Ferraz** and **Pedro Ferreira**. 
+Project developed by **Isadora Figueiredo** and **Pedro Ferreira**. 
